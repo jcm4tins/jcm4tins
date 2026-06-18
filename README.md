@@ -60,7 +60,7 @@ Sou um estudante de 18 anos da Universidade Federal da Fronteira Sul (UFFS), apa
   <img 
     align="left" 
     alt="Top Languages" 
-    height="200" 
+    height="600" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcm4tins&layout=compact&theme=omni"
   />
 </p>
