@@ -10,5 +10,11 @@ Linguagens e Tecnologias
 </p>
 
 ### Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jcm4tins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_GITHUB&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api? username=jcm4tins&show_icons=true&theme=tokyonight&include_all_commits=true&cou nt_private=true" /> 
+  </a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=jcm4tins&layout=compact&theme=tokyonight" /> 
+  </a> 
+</p>
