@@ -52,3 +52,6 @@ Sou um estudante de 18 anos da Universidade Federal da Fronteira Sul (UFFS), apa
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcm4tins&layout=compact&theme=omni"
   />
 </p>
+
+### Projeto (tailwind)
+[Locschool](file:///C:/Users/martins.joao/Downloads/sprint3.locschool/school%20(2)/src/index.html)
