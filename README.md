@@ -2,6 +2,8 @@
 
 ### Sobre mim 
 Sou um estudante de 18 anos da Universidade Federal da Fronteira Sul (UFFS), apaixonado por tecnologia e desenvolvimento. Busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores.
+
+
 ###Linguagens e Tecnologias 
 <img 
     align="left" 
@@ -21,6 +23,8 @@ Sou um estudante de 18 anos da Universidade Federal da Fronteira Sul (UFFS), apa
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+
+
 ### Estatísticas do GitHub
 
 <p>
@@ -29,7 +33,7 @@ Sou um estudante de 18 anos da Universidade Federal da Fronteira Sul (UFFS), apa
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marialuizaimbescc&show_icons=true&theme=omni" 
+    src="https://github-readme-stats.vercel.app/api?username=jcm4tins&show_icons=true&theme=omni" 
   />
 
   <img 
