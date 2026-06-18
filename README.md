@@ -9,6 +9,13 @@ Sou um estudante de 18 anos da Universidade Federal da Fronteira Sul (UFFS), apa
   </ul>
 </p>
 
+
+
+### Projeto (tailwind)
+"[Locschool](https://files.manuscdn.com/user_upload_by_module/session_file/310519663676916160/oLYtjDcaYxNvwNrE.html)" Usado manus para e apenas abertura de front-end.
+
+
+
 ### Linguagens e Tecnologias 
 
 
@@ -52,17 +59,3 @@ Sou um estudante de 18 anos da Universidade Federal da Fronteira Sul (UFFS), apa
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcm4tins&layout=compact&theme=omni"
   />
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-### Projeto (tailwind)
-"[Locschool](https://files.manuscdn.com/user_upload_by_module/session_file/310519663676916160/oLYtjDcaYxNvwNrE.html)" Usado manus para e apenas abertura de front-end.
