@@ -59,4 +59,4 @@ Sou um estudante de 18 anos da Universidade Federal da Fronteira Sul (UFFS), apa
 ### Projeto (tailwind)
 
 
-"[Locschool](http://file:///C:/Users/martins.joao/Downloads/sprint3.locschool/school%20(2)/src/index.html)".
+"[Locschool](https://files.manuscdn.com/user_upload_by_module/session_file/310519663676916160/oLYtjDcaYxNvwNrE.html)".
