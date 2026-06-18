@@ -2,14 +2,7 @@
 
 ### Sobre mim 
 Sou um estudante de 18 anos da Universidade Federal da Fronteira Sul (UFFS), apaixonado por tecnologia e desenvolvimento. Busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores.
-Linguagens e Tecnologias 
-<p align="left"> 
-  <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons? i=python" /> 
-  </a> 
-</p>
-
-### Estatísticas do GitHub
+###Linguagens e Tecnologias 
 <img 
     align="left" 
     alt="Tailwind" 
@@ -27,6 +20,17 @@ Linguagens e Tecnologias
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+### Estatísticas do GitHub
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=marialuizaimbescc&show_icons=true&theme=omni" 
+  />
 
   <img 
     align="left" 
