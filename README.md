@@ -3,6 +3,11 @@
 ### Sobre mim 
 Sou um estudante de 18 anos da Universidade Federal da Fronteira Sul (UFFS), apaixonado por tecnologia e desenvolvimento. Busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores.
 
+<p align="left">
+  <ul>
+    <li>🎓 Estudante de Ciência da Computação</li>
+  </ul>
+</p>
 
 ### Linguagens e Tecnologias 
 
