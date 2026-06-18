@@ -19,8 +19,6 @@ Sou um estudante de 18 anos da Universidade Federal da Fronteira Sul (UFFS), apa
 ### Linguagens e Tecnologias 
 
 
-
-
 <img 
     align="left" 
     alt="Tailwind" 
