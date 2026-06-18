@@ -5,7 +5,7 @@ Sou um estudante de 18 anos da Universidade Federal da Fronteira Sul (UFFS), apa
 Linguagens e Tecnologias 
 <p align="left"> 
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons? i=html,css,js,ts,react,nodejs,python,java,git,github,vscode" /> 
+    <img src="https://skillicons.dev/icons? i=python" /> 
   </a> 
 </p>
 
