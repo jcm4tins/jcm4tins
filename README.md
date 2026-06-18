@@ -13,7 +13,7 @@ Sou um estudante de 18 anos da Universidade Federal da Fronteira Sul (UFFS), apa
 
 ### Projeto (tailwind)
 "[Locschool](https://files.manuscdn.com/user_upload_by_module/session_file/310519663676916160/oLYtjDcaYxNvwNrE.html)" Usado manus para e apenas abertura de front-end.
-"[Apresentação]()
+"[Apresentação](https://canva.link/26srma3svk8jy0p)
 
 
 ### Linguagens e Tecnologias 
