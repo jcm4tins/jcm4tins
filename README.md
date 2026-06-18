@@ -54,13 +54,13 @@ Sou um estudante de 18 anos da Universidade Federal da Fronteira Sul (UFFS), apa
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jcm4tins&show_icons=true&theme=omni" 
+    src="https://github-readme-stats.vercel.app/api?username=jcm4tins&show_icons=true&theme=algolia" 
   />
 
   <img 
     align="left" 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcm4tins&layout=compact&theme=omni"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcm4tins&layout=compact&theme=algolia"
   />
 </p>
